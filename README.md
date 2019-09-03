@@ -12,4 +12,4 @@ $ ln -s `realpath ./Pictures` ~/Pictures/sample-sunset
 
 シナリオエディタでsample-sunsetのシナリオを実行するには、「名前の変更」からユーザー名を「sample-sunset」に変更します。
 
-ユーザー名を sample-sunset に変更すると、一覧から「sunset-scenario.dora」を選択できるようになります。
+ユーザー名を sample-sunset に変更すると、一覧から「sample-sunset.dora」を選択できるようになります。
